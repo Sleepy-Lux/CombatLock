@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "combatlock",
+  "version": "${version}",
+  "name": "CombatLock",
+  "description": "CombatLog Mod for 1.21 as I could not find one",
+  "authors": ["Lux"],
+  "contact": { "discord": "fbsleepylux" },
+  "license": "All-Rights-Reserved",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "uk.sleepylux.combatlog.CombatLock"
+    ]
+  },
+  "mixins": [
+    "combatlock.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
