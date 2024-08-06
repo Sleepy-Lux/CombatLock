@@ -1,4 +1,5 @@
 ### CombatLock
+![](https://img.shields.io/github/v/release/sleepy-lux/combatlock)<br>
 A simple, easy-to-use, fully configurable Anti-CombatLog Mod.
 <br><br>
 ### Features
@@ -11,5 +12,5 @@ A simple, easy-to-use, fully configurable Anti-CombatLog Mod.
  > Configuration head description weight list (RNG Feature)<br>
 
 ### Contact
-If you need to contact me for suggestions or issues. My discord is "fbsleepylux".<br>
+![](https://dcbadge.limes.pink/api/shield/1178393313594847367?style=flat)<br>
 Join [The Fabric Project](https://discord.com/invite/v6v4pMv) Server if you cannot dm me.
