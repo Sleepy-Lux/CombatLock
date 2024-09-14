@@ -15,3 +15,6 @@ Requires [Cloth Config API](https://modrinth.com/mod/cloth-config/versions)
 ### Contact
 ![](https://dcbadge.limes.pink/api/shield/1178393313594847367?style=flat)<br>
 Join [The Fabric Project](https://discord.com/invite/v6v4pMv) Server if you cannot dm me.
+
+### Reporting issues
+> If you find an issue, please report it [here](https://github.com/Sleepy-Lux/CombatLock/issues)
