@@ -11,6 +11,7 @@ A simple, easy-to-use, fully configurable Anti-CombatLog Mod.
  > Drop your own playerhead upon death from another player<br>
  > Configuration head description weight list (RNG Feature)<br>
 
+Requires [Cloth Config API](https://modrinth.com/mod/cloth-config/versions)
 ### Contact
 ![](https://dcbadge.limes.pink/api/shield/1178393313594847367?style=flat)<br>
 Join [The Fabric Project](https://discord.com/invite/v6v4pMv) Server if you cannot dm me.
