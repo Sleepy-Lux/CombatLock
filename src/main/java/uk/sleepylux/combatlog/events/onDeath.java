@@ -114,7 +114,6 @@ public class onDeath {
         );
         stack.set(DataComponentTypes.PROFILE, component);
 
-        System.out.println(Objects.requireNonNull(stack.get(DataComponentTypes.PROFILE)).gameProfile());
         ItemEntity dropped_item = player.dropItem(stack, false, false);
         if (dropped_item != null) {
             dropped_item.velocityModified = true;
