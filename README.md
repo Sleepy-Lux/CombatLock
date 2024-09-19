@@ -18,3 +18,5 @@ Join [The Fabric Project](https://discord.com/invite/v6v4pMv) Server if you cann
 
 ### Reporting issues
 > If you find an issue, please report it [here](https://github.com/Sleepy-Lux/CombatLock/issues)
+
+<a href='https://ko-fi.com/sleepylux' target='_blank'><img src='https://storage.ko-fi.com/cdn/kofi5.png' alt='Buy Me a Coffee at ko-fi.com' /></a>
